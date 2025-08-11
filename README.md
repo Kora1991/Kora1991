@@ -9,7 +9,7 @@
 
 🖌️ **Every line of code I craft is like a delicate brushstroke, contributing to a complete masterpiece.**
 
-🚀 **I constantly explore, learn, and integrate the latest automation solutions to optimize every stage of the process —  
+🚀 **I constantly explore, learn, and integrate the latest automation solutions to optimize every stage of the process
 from building and testing to deployment.**
 
 ⏳ **This approach not only saves time but also enhances product quality, transforming ideas into impactful digital experiences.**
